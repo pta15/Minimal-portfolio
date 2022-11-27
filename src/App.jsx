@@ -3,6 +3,7 @@ import './App.css'
 import Intro from './components/Intro'
 import Portfolio from './components/Portfolio'
 import Timeline from './components/Timeline'
+import Contact from './components/Contact'
 
 function App() {
 
@@ -12,6 +13,7 @@ function App() {
         <Intro />
         <Portfolio />
         <Timeline/>
+        <Contact/>
         {/*
         
         <Timeline />
