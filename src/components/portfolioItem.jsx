@@ -1,6 +1,6 @@
 import React from 'react'
 
-function portfolioItem({ imgUrl, Title, stack}) {
+function PortfolioItem({ imgUrl, title, stack}) {
     return (
       <a className="border-2 border-stone-900 dark:border-white rounded-md overflow-hidden" href="./blank">
         <img src={imgUrl} alt="portfolio" className='w-full h-36 md:h-48 object-cover cursor-pointer'
@@ -21,4 +21,4 @@ function portfolioItem({ imgUrl, Title, stack}) {
     )
   }
 
-export default portfolioItem
+export default PortfolioItem

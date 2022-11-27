@@ -1,6 +1,6 @@
 import React from 'react'
 
-function timelineItem({year, title, duration, details}) {
+function TimelineItem({year, title, duration, details}) {
     return (
       <ol className="flex flex-col md:flex-row relative border-l border-stone-200 dark:border-stone-700">
         <li className="mb-10 ml-4">
@@ -24,4 +24,4 @@ function timelineItem({year, title, duration, details}) {
     )
   }
 
-export default timelineItem;
+export default TimelineItem;

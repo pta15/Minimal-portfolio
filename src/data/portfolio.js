@@ -4,6 +4,18 @@ export default [
         imgUrl: '',
         stack: ['HTML', 'CSS', 'Javascript'],
         workUrl: '#',
+    },
+    {
+        title: 'Website',
+        imgUrl: '',
+        stack: ['HTML', 'CSS', 'Javascript'],
+        workUrl: '#',
+    },
+    {
+        title: 'Website',
+        imgUrl: '',
+        stack: ['HTML', 'CSS', 'Javascript'],
+        workUrl: '#',
     }
-    
+
 ]
