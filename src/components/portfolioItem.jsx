@@ -1,8 +1,8 @@
 import React from 'react'
 
-function PortfolioItem({ imgUrl, title, stack}) {
+function PortfolioItem({ imgUrl, title, stack, workUrl}) {
     return (
-      <a className="border-2 border-stone-900 dark:border-white rounded-md overflow-hidden" href="./blank">
+      <a className="border-2 border-stone-900 dark:border-white rounded-md overflow-hidden" href={workUrl} target="_blank">
         <img src={imgUrl} alt="portfolio" className='w-full h-36 md:h-48 object-cover cursor-pointer'
         />
         <div className="w-full p-4">

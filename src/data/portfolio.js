@@ -19,8 +19,8 @@ export default [
     },
     {
         title: 'Portfolio website',
-        imgUrl: 'https://127.0.0.1:5173/',
-        stack: ['HTML', 'CSS', 'Javascript'],
-        workUrl: '#',
+        imgUrl: 'https://i.postimg.cc/KY3VktG7/2022-11-28-2.png',
+        stack: ['HTML', 'CSS', 'Javascript', 'React', 'TailwindCSS'],
+        workUrl: 'http://www.abdihafidabdirahman.com',
     }
 ]
