@@ -1,26 +1,26 @@
 export default [
     {
-        title: 'My Leetcode projects',
-        imgUrl: 'https://miro.medium.com/max/1200/0*y8puBcHsdWf_dfdB.png',
-        stack: ['Python'],
-        workUrl: '#',
-    },
-    {
-        title: 'Youtube Clone',
-        imgUrl: 'https://9to5google.com/wp-content/uploads/sites/4/2022/09/YouTube-homepage-desktop-current.jpg?quality=82&strip=all',
-        stack: ['HTML', 'CSS', 'Javascript'],
-        workUrl: '#',
+        title: 'React Weather App',
+        imgUrl: 'https://i.gyazo.com/9b38f38c0f8d787bb14f464334c2007e.jpg',
+        stack: ['HTML', 'CSS', 'Javascript', 'React', 'Netlify', 'API'],
+        workUrl: 'https://react-weather-app-abdi.netlify.app',
     },
     {
         title: 'React calculator',
-        imgUrl: 'https://uploads.sitepoint.com/wp-content/uploads/2021/09/1632727310react-calculator-app.jpg',
+        imgUrl: 'https://i.gyazo.com/f4b6db8440b1b259fe0681b5ae31761e.png',
         stack: ['HTML', 'CSS', 'Javascript','React'],
-        workUrl: '#',
+        workUrl: 'https://github.com/pta15/react-calculator',
     },
     {
         title: 'Portfolio website',
         imgUrl: 'https://i.postimg.cc/KY3VktG7/2022-11-28-2.png',
-        stack: ['HTML', 'CSS', 'Javascript', 'React', 'TailwindCSS'],
-        workUrl: 'http://www.abdihafidabdirahman.com',
+        stack: ['HTML', 'CSS', 'Javascript', 'React', 'TailwindCSS', 'Vite'],
+        workUrl: 'https://www.abdihafidabdirahman.com',
+    },
+    {
+        title: 'My Leetcode projects',
+        imgUrl: 'https://miro.medium.com/max/1200/0*y8puBcHsdWf_dfdB.png',
+        stack: ['Python'],
+        workUrl: 'https://github.com/pta15/Leetcode',
     }
 ]

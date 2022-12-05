@@ -16,7 +16,7 @@ function Intro() {
             and promising skillset. Capable of working in a fast-paced and demanding 
             environment. Able to effectively self-manage during independent 
             projects while also being able to collaborate in a team setting.
-            <br/><a classname="" href={resume} download target="_blank">Click this for my cv</a>
+            <br/><a className="text-blue-600 underline dark:text-blue-600" href={resume} download target="_blank">Click this to download my cv</a>
             </p>
         </div>
     </section>
