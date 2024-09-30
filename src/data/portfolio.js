@@ -1,5 +1,11 @@
 export default [
     {
+        title: 'Combo Fighter Trainer',
+        imgUrl: 'https://prnt.sc/aUkV80qBRmCT',
+        stack: ['HTML', 'CSS', 'Javascript', 'Open Source', 'Github Pages', 'Gamepad API'],
+        workUrl: 'https://pta15.github.io/FightingComboTrainer/',
+    },
+    {
         title: 'React Weather App',
         imgUrl: 'https://i.gyazo.com/9b38f38c0f8d787bb14f464334c2007e.jpg',
         stack: ['HTML', 'CSS', 'Javascript', 'React', 'Netlify', 'API'],
